@@ -8,11 +8,16 @@
 
 #### Structure
 - [ClcNet: Improving the Efficiency of Convolutional Neural Network Using Channel Local Convolutions](https://arxiv.org/abs/1712.06145)
+- [ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions](https://arxiv.org/abs/1809.01330v1)
+- [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/abs/1807.11626?context=cs.LG)
+- [Efficient Neural Architecture Search via Parameters Sharing](https://arxiv.org/abs/1802.03268v1)
+- [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055)
+- [Path-Level Network Transformation for Efficient Architecture Search](https://arxiv.org/abs/1806.02639)
 - [SqueezeNext: Hardware-Aware Neural Network Design](https://arxiv.org/abs/1803.10615)
 - [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/abs/1707.01083)
 - [ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design](https://arxiv.org/abs/1807.11164v1)
-
 - [CondenseNet: An Efficient DenseNet using Learned Group Convolutions](https://arxiv.org/abs/1711.09224)
+- [ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware](https://arxiv.org/abs/1812.00332v1)
 - [Interleaved Group Convolutions for Deep Neural Networks](http://arxiv.org/pdf/1707.02725.pdf)
 - [IGCV2: Interleaved Structured Sparse Convolutional Neural Networks](http://arxiv.org/abs/1804.06202)
 - [IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks](https://arxiv.org/pdf/1806.00178.pdf)
