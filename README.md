@@ -1,4 +1,4 @@
-# awesome-compact-models!
+# Awesome Compact Models!
 ---
 ## Paper
 #### Overview
