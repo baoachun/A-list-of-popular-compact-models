@@ -1,4 +1,4 @@
-# awesome-model-compression-and-acceleration
+# awesome-compact-models!
 ---
 ## Paper
 #### Overview
