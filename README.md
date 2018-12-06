@@ -7,6 +7,15 @@
 -[A Survey of Model Compression and Acceleration for Deep Neural Networks](https://arxiv.org/pdf/1710.09282.pdf)
 
 #### Structure
+- [ClcNet: Improving the Efficiency of Convolutional Neural Network Using Channel Local Convolutions](https://arxiv.org/abs/1712.06145)
+- [SqueezeNext: Hardware-Aware Neural Network Design](https://arxiv.org/abs/1803.10615)
+- [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/abs/1707.01083)
+- [ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design](https://arxiv.org/abs/1807.11164v1)
+
+- [CondenseNet: An Efficient DenseNet using Learned Group Convolutions](https://arxiv.org/abs/1711.09224)
+- [Interleaved Group Convolutions for Deep Neural Networks](http://arxiv.org/pdf/1707.02725.pdf)
+- [IGCV2: Interleaved Structured Sparse Convolutional Neural Networks](http://arxiv.org/abs/1804.06202)
+- [IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks](https://arxiv.org/pdf/1806.00178.pdf)
 - [Dynamic Capacity Networks](https://arxiv.org/pdf/1511.07838.pdf)
 - [ResNeXt: Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/pdf/1611.05431.pdf)
 - [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/pdf/1704.04861.pdf)
