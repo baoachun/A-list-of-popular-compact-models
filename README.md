@@ -15,6 +15,7 @@
 - [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055)
 - [Path-Level Network Transformation for Efficient Architecture Search](https://arxiv.org/abs/1806.02639)
 - [SqueezeNext: Hardware-Aware Neural Network Design](https://arxiv.org/abs/1803.10615)
+- [LQ-Nets: Learned Quantization for Highly Accurate and Compact Deep Neural Networks](https://arxiv.org/abs/1807.10029v1)
 - [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/abs/1707.01083)
 - [ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design](https://arxiv.org/abs/1807.11164v1)
 - [CondenseNet: An Efficient DenseNet using Learned Group Convolutions](https://arxiv.org/abs/1711.09224)
