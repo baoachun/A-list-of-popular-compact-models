@@ -95,6 +95,7 @@
 - [Faster CNNs with Direct Sparse Convolutions and Guided Pruning](https://arxiv.org/pdf/1608.01409.pdf)
 
 #### Low Rank Approximation
+- [Low-rank Bilinear Pooling for Fine-Grained Classification](https://arxiv.org/pdf/1611.05109.pdf)
 - [Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](https://arxiv.org/pdf/1404.0736.pdf)
 - [Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications](https://arxiv.org/pdf/1511.06530.pdf)
 - [Efficient and Accurate Approximations of Nonlinear Convolutional Networks](https://arxiv.org/pdf/1411.4229.pdf)
