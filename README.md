@@ -10,6 +10,7 @@
 #### Structure
 - [ClcNet: Improving the Efficiency of Convolutional Neural Network Using Channel Local Convolutions](https://arxiv.org/abs/1712.06145)
 - [ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions](https://arxiv.org/abs/1809.01330v1)
+- [EffNet: An Efficient Structure for Convolutional Neural Networks](https://arxiv.org/abs/1801.06434)
 - [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/abs/1807.11626?context=cs.LG)
 - [Efficient Neural Architecture Search via Parameters Sharing](https://arxiv.org/abs/1802.03268v1)
 - [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055)
