@@ -65,6 +65,7 @@
 - [Knowledge Projection for Effective Design of Thinner and Faster Deep Neural Networks](https://arxiv.org/pdf/1710.09505.pdf)
 - [Moonshine: Distilling with Cheap Convolutions](https://arxiv.org/pdf/1711.02613.pdf)
 - [Model Distillation with Knowledge Transfer from Face Classification to Alignment and Verification](https://arxiv.org/pdf/1709.02929.pdf)
+- [A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100237)
 
 #### Binarization
 - [Local Binary Convolutional Neural Networks](https://arxiv.org/pdf/1608.06049.pdf)
@@ -87,6 +88,9 @@
 - [Trained Ternary Quantization](https://arxiv.org/pdf/1612.01064.pdf)
 - [Extremely Low Bit Neural Network: Squeeze the Last Bit Out with ADMM](https://arxiv.org/abs/1707.09870)
 - [From Hashing to CNNs: Training BinaryWeight Networks via Hashing](https://arxiv.org/abs/1802.02733?context=cs)
+- [Flexpoint: An Adaptive Numerical Format for Efficient Training of Deep Neural Networks](https://arxiv.org/abs/1711.02213)
+- [QSGD: Communication-Efficient SGD via Gradient Quantization and Encoding](https://arxiv.org/abs/1610.02132v4)
+- [TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning](https://arxiv.org/abs/1705.07878)
 
 #### Pruning
 - [Data-Driven Sparse Structure Selection for Deep Neural Networks](https://arxiv.org/pdf/1707.01213.pdf)
