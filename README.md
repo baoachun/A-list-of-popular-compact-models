@@ -85,6 +85,8 @@
 - [Deep Learning with Low Precision by Half-wave Gaussian Quantization](https://arxiv.org/pdf/1702.00953.pdf)
 - [ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks](https://arxiv.org/pdf/1706.02393.pdf)
 - [Trained Ternary Quantization](https://arxiv.org/pdf/1612.01064.pdf)
+- [Extremely Low Bit Neural Network: Squeeze the Last Bit Out with ADMM](https://arxiv.org/abs/1707.09870)
+- [From Hashing to CNNs: Training BinaryWeight Networks via Hashing](https://arxiv.org/abs/1802.02733?context=cs)
 
 #### Pruning
 - [Data-Driven Sparse Structure Selection for Deep Neural Networks](https://arxiv.org/pdf/1707.01213.pdf)
@@ -100,8 +102,18 @@
 - [ESE: Efficient Speech Recognition Engine with Sparse LSTM on FPGA](https://arxiv.org/pdf/1612.00694.pdf)
 - [Faster CNNs with Direct Sparse Convolutions and Guided Pruning](https://arxiv.org/pdf/1608.01409.pdf)
 - [Channel Pruning for Accelerating Very Deep Neural Networks](https://arxiv.org/abs/1707.06168)
+- [Combined Group and Exclusive Sparsity for Deep Neural Networks](http://proceedings.mlr.press/v70/yoon17a/yoon17a.pdf)
+- [SBNet: Sparse Blocks Network for Fast Inference](https://arxiv.org/pdf/1801.02108.pdf)
+- [ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression](https://arxiv.org/pdf/1707.06342.pdf)
+- [Learning Efficient Convolutional Networks through Network Slimming](https://arxiv.org/abs/1708.06519)
+- [meProp: Sparsified Back Propagation for Accelerated Deep Learning with Reduced Overfitting](https://arxiv.org/abs/1706.06197)
+- [Variational Dropout Sparsifies Deep Neural Networks](https://arxiv.org/abs/1701.05369v1)
 
 #### Low Rank Approximation
+- [Wide Compression: Tensor Ring Nets](https://arxiv.org/pdf/1802.09052.pdf)
+- [Tensorizing Neural Networks](https://arxiv.org/pdf/1509.06569v2.pdf)
+- [Learning Compact Recurrent Neural Networks with Block-Term Tensor Decomposition](https://arxiv.org/pdf/1712.05134.pdf)
+- [Accelerating Convolutional Neural Networks for Mobile Applications](https://dl.acm.org/citation.cfm?id=2967280)
 - [Low-rank Bilinear Pooling for Fine-Grained Classification](https://arxiv.org/pdf/1611.05109.pdf)
 - [Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](https://arxiv.org/pdf/1404.0736.pdf)
 - [Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications](https://arxiv.org/pdf/1511.06530.pdf)
@@ -110,5 +122,6 @@
 - [Convolutional neural networks with low-rank regularization](https://arxiv.org/pdf/1511.06067.pdf)
 - [Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](https://arxiv.org/pdf/1404.0736.pdf)
 - [Speeding up convolutional neural networks with low rank expansions](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14b/jaderberg14b.pdf)
+- [Speeding-up Convolutional Neural Networks Using Fine-tuned CP-Decomposition](https://arxiv.org/pdf/1412.6553.pdf)
 
 
