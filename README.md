@@ -7,6 +7,9 @@
 -[A Survey of Model Compression and Acceleration for Deep Neural Networks](https://arxiv.org/pdf/1710.09282.pdf)
 - [Recent Advances in Efficient Computation of Deep Convolutional Neural Networks](https://arxiv.org/pdf/1802.00939.pdf)
 
+#### Thinking
+- [Rethinking the Value of Network Pruning](https://arxiv.org/abs/1810.05270)
+
 #### Structure
 - [ClcNet: Improving the Efficiency of Convolutional Neural Network Using Channel Local Convolutions](https://arxiv.org/abs/1712.06145)
 - [ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions](https://arxiv.org/abs/1809.01330v1)
