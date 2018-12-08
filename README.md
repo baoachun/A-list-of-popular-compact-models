@@ -9,6 +9,7 @@
 
 #### Thinking
 - [Rethinking the Value of Network Pruning](https://arxiv.org/abs/1810.05270)
+- [To prune, or not to prune: exploring the efficacy of pruning for model compression](https://arxiv.org/abs/1710.01878)
 
 #### Structure
 - [ClcNet: Improving the Efficiency of Convolutional Neural Network Using Channel Local Convolutions](https://arxiv.org/abs/1712.06145)
