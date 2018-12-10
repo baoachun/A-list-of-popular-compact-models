@@ -12,6 +12,8 @@
 - [To prune, or not to prune: exploring the efficacy of pruning for model compression](https://arxiv.org/abs/1710.01878)
 
 #### Structure
+- [PVANet: Lightweight Deep Neural Networks for Real-time Object Detection](https://arxiv.org/abs/1611.08588)
+- [Receptive Field Block Net for Accurate and Fast Object Detection](https://arxiv.org/abs/1711.07767)
 - [ClcNet: Improving the Efficiency of Convolutional Neural Network Using Channel Local Convolutions](https://arxiv.org/abs/1712.06145)
 - [ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions](https://arxiv.org/abs/1809.01330v1)
 - [Accelerating Deep Neural Networks with Spatial Bottleneck Modules](https://arxiv.org/pdf/1809.02601.pdf)
