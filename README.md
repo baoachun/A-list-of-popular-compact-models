@@ -19,6 +19,7 @@
 - [Accelerating Deep Neural Networks with Spatial Bottleneck Modules](https://arxiv.org/pdf/1809.02601.pdf)
 - [Neural Architecture Optimization](https://arxiv.org/abs/1808.07233)
 - [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578)
+- [Regularized Evolution for Image Classifier Architecture Search](https://arxiv.org/abs/1802.01548)
 - [Auto-Keras: Efficient Neural Architecture Search with Network Morphism](https://arxiv.org/abs/1806.10282?context=cs.LG)
 - [EffNet: An Efficient Structure for Convolutional Neural Networks](https://arxiv.org/abs/1801.06434)
 - [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/abs/1807.11626?context=cs.LG)
