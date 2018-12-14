@@ -75,6 +75,7 @@
 
 #### Binarization
 - [Local Binary Convolutional Neural Networks](https://arxiv.org/pdf/1608.06049.pdf)
+- [Training Competitive Binary Neural Networks from Scratch](https://arxiv.org/pdf/1812.01965.pdf)
 - [Binarized Convolutional Neural Networks with Separable Filters for Efficient Hardware Acceleration](https://arxiv.org/pdf/1707.04693.pdf)
 - [Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1](https://arxiv.org/pdf/1602.02830.pdf)
 - [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks](https://arxiv.org/pdf/1603.05279.pdf)
