@@ -12,6 +12,7 @@
 - [To prune, or not to prune: exploring the efficacy of pruning for model compression](https://arxiv.org/abs/1710.01878)
 
 #### Structure
+- [Pelee:A Real-Time Object Detection System on Mobile Devices](https://arxiv.org/abs/1804.06882)
 - [PVANet: Lightweight Deep Neural Networks for Real-time Object Detection](https://arxiv.org/abs/1611.08588)
 - [Receptive Field Block Net for Accurate and Fast Object Detection](https://arxiv.org/abs/1711.07767)
 - [ClcNet: Improving the Efficiency of Convolutional Neural Network Using Channel Local Convolutions](https://arxiv.org/abs/1712.06145)
@@ -56,6 +57,9 @@
 - [Inverted Residuals and Linear Bottlenecks: Mobile Networks for Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf)
 
 #### Distillation
+- [Paraphrasing Complex Network: Network Compression via Factor Transfer](https://arxiv.org/abs/1802.04977)
+- [Moonshine: Distilling with Cheap Convolutions](https://arxiv.org/abs/1711.02613)
+- [Knowledge Distillation by On-the-Fly Native Ensemble](https://arxiv.org/abs/1806.04606)
 - [Dark knowledge](http://www.ttic.edu/dl/dark14.pdf)
 - [FitNets: Hints for Thin Deep Nets](https://arxiv.org/pdf/1412.6550.pdf)
 - [Net2net: Accelerating learning via knowledge transfer]()
@@ -75,6 +79,7 @@
 - [A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100237)
 
 #### Binarization
+- [Scalable Methods for 8-bit Training of Neural Networks](https://arxiv.org/abs/1805.11046)
 - [Local Binary Convolutional Neural Networks](https://arxiv.org/pdf/1608.06049.pdf)
 - [Training Competitive Binary Neural Networks from Scratch](https://arxiv.org/pdf/1812.01965.pdf)
 - [Binarized Convolutional Neural Networks with Separable Filters for Efficient Hardware Acceleration](https://arxiv.org/pdf/1707.04693.pdf)
@@ -83,6 +88,7 @@
 - [DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients](https://arxiv.org/pdf/1606.06160.pdf)
 
 #### Quantization
+- [Learning Sparse Neural Networks via Sensitivity-Driven Regularization](https://arxiv.org/abs/1810.11764)
 - [Quantize weights and activations in Recurrent Neural Networks](https://arxiv.org/pdf/1611.10176.pdf)
 - [The ZipML Framework for Training Models with End-to-End Low Precision: The Cans, the Cannots, and a Little Bit of Deep Learning](https://arxiv.org/pdf/1611.05402.pdf)
 - [Quantized Convolutional Neural Networks for Mobile Devices](https://arxiv.org/pdf/1512.06473.pdf)
@@ -101,6 +107,7 @@
 - [TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning](https://arxiv.org/abs/1705.07878)
 
 #### Pruning
+- [Discrimination-aware Channel Pruning for Deep Neural Networks](https://arxiv.org/abs/1810.11809)
 - [Data-Driven Sparse Structure Selection for Deep Neural Networks](https://arxiv.org/pdf/1707.01213.pdf)
 - [Fine-Pruning: Joint Fine-Tuning and Compression of a Convolutional Network with Bayesian Optimization](https://arxiv.org/pdf/1707.09102.pdf)
 - [Learning to Prune: Exploring the Frontier of Fast and Accurate Parsing](http://www.cs.jhu.edu/~jason/papers/vieira+eisner.tacl17.pdf)
