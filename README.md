@@ -61,6 +61,7 @@
 - [Moonshine: Distilling with Cheap Convolutions](https://arxiv.org/abs/1711.02613)
 - [Knowledge Distillation by On-the-Fly Native Ensemble](https://arxiv.org/abs/1806.04606)
 - [Dark knowledge](http://www.ttic.edu/dl/dark14.pdf)
+- [Deep Mutual Learning](https://arxiv.org/pdf/1706.00384.pdf)
 - [FitNets: Hints for Thin Deep Nets](https://arxiv.org/pdf/1412.6550.pdf)
 - [Net2net: Accelerating learning via knowledge transfer]()
 - [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
