@@ -72,7 +72,7 @@
 - [Like What You Like: Knowledge Distill via Neuron Selectivity Transfer](https://arxiv.org/pdf/1707.01219.pdf)
 - [Learning Efficient Object Detection Models with Knowledge Distillation](http://papers.nips.cc/paper/6676-learning-efficient-object-detection-models-with-knowledge-distillation.pdf)
 - [Data-Free Knowledge Distillation For Deep Neural Networks](https://arxiv.org/pdf/1710.07535.pdf)
-- [Learning Loss for Knowledge Distillation with Conditional Adversarial Networks](https://arxiv.org/pdf/1709.00513.pdf)
+- [Training Shallow and Thin Networks for Acceleration via Knowledge Distillation with Conditional Adversarial Networks](https://arxiv.org/pdf/1709.00513.pdf)
 - [Knowledge Projection for Effective Design of Thinner and Faster Deep Neural Networks](https://arxiv.org/pdf/1710.09505.pdf)
 - [Moonshine: Distilling with Cheap Convolutions](https://arxiv.org/pdf/1711.02613.pdf)
 - [Model Distillation with Knowledge Transfer from Face Classification to Alignment and Verification](https://arxiv.org/pdf/1709.02929.pdf)
