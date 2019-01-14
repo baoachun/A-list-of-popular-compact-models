@@ -1,4 +1,4 @@
-# Awesome Compact Models!
+:pig: # Awesome Compact Models! :pig:
 ---
 ## Paper
 #### Overview
