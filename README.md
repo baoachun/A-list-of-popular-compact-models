@@ -90,7 +90,7 @@ Awesome Compact Models!
 
 #### Quantization
 - [Learning Sparse Neural Networks via Sensitivity-Driven Regularization](https://arxiv.org/abs/1810.11764)
-- [Quantize weights and activations in Recurrent Neural Networks](https://arxiv.org/pdf/1611.10176.pdf)
+- [Effective Quantization Methods for Recurrent Neural Networks](https://arxiv.org/pdf/1611.10176.pdf)
 - [The ZipML Framework for Training Models with End-to-End Low Precision: The Cans, the Cannots, and a Little Bit of Deep Learning](https://arxiv.org/pdf/1611.05402.pdf)
 - [Quantized Convolutional Neural Networks for Mobile Devices](https://arxiv.org/pdf/1512.06473.pdf)
 - [Compressing Deep Convolutional Networks using Vector Quantization](https://arxiv.org/pdf/1412.6115.pdf)
