@@ -12,11 +12,11 @@ Awesome Compact Models!
 - [To prune, or not to prune: exploring the efficacy of pruning for model compression](https://arxiv.org/abs/1710.01878)  [[code]](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/model_pruning)
 
 #### Structure
-- [Pelee:A Real-Time Object Detection System on Mobile Devices](https://arxiv.org/abs/1804.06882)
-- [PVANet: Lightweight Deep Neural Networks for Real-time Object Detection](https://arxiv.org/abs/1611.08588)
-- [Receptive Field Block Net for Accurate and Fast Object Detection](https://arxiv.org/abs/1711.07767)
-- [ClcNet: Improving the Efficiency of Convolutional Neural Network Using Channel Local Convolutions](https://arxiv.org/abs/1712.06145)
-- [ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions](https://arxiv.org/abs/1809.01330v1)
+- [Pelee:A Real-Time Object Detection System on Mobile Devices](https://arxiv.org/abs/1804.06882)  [[code]](https://github.com/Robert-JunWang/Pelee)
+- [PVANet: Lightweight Deep Neural Networks for Real-time Object Detection](https://arxiv.org/abs/1611.08588)  [[code]](https://github.com/sanghoon/pva-faster-rcnn)
+- [Receptive Field Block Net for Accurate and Fast Object Detection](https://arxiv.org/abs/1711.07767)  [[code]](https://github.com/ruinmessi/RFBNet)
+- [ClcNet: Improving the Efficiency of Convolutional Neural Network Using Channel Local Convolutions](https://arxiv.org/abs/1712.06145)  [[code]](https://github.com/dqzhang17/clcnet.torch)
+- [ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions](https://arxiv.org/abs/1809.01330v1)  [[code]](https://github.com/HongyangGao/ChannelNets)
 - [Accelerating Deep Neural Networks with Spatial Bottleneck Modules](https://arxiv.org/pdf/1809.02601.pdf)
 - [Neural Architecture Optimization](https://arxiv.org/abs/1808.07233)
 - [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578)
