@@ -17,7 +17,7 @@ Awesome Compact Models!
 - [Receptive Field Block Net for Accurate and Fast Object Detection](https://arxiv.org/abs/1711.07767)  [[code]](https://github.com/ruinmessi/RFBNet)
 - [ClcNet: Improving the Efficiency of Convolutional Neural Network Using Channel Local Convolutions](https://arxiv.org/abs/1712.06145)  [[code]](https://github.com/dqzhang17/clcnet.torch)
 - [ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions](https://arxiv.org/abs/1809.01330v1)  [[code]](https://github.com/HongyangGao/ChannelNets)
-- [Accelerating Deep Neural Networks with Spatial Bottleneck Modules](https://arxiv.org/pdf/1809.02601.pdf)
+- [Accelerating Deep Neural Networks with Spatial Bottleneck Modules](https://arxiv.org/pdf/1809.02601.pdf)  [[code]](https://github.com/mpatacchiola/spatial-bottleneck)
 - [Neural Architecture Optimization](https://arxiv.org/abs/1808.07233)
 - [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578)
 - [Regularized Evolution for Image Classifier Architecture Search](https://arxiv.org/abs/1802.01548)
