@@ -8,7 +8,7 @@ Awesome Compact Models!
 - [Recent Advances in Efficient Computation of Deep Convolutional Neural Networks](https://arxiv.org/pdf/1802.00939.pdf)
 
 #### Thinking
-- [Rethinking the Value of Network Pruning](https://arxiv.org/abs/1810.05270)  [code](https://github.com/Eric-mingjie/rethinking-network-pruning)
+- [Rethinking the Value of Network Pruning](https://arxiv.org/abs/1810.05270)  [[code]](https://github.com/Eric-mingjie/rethinking-network-pruning)
 - [To prune, or not to prune: exploring the efficacy of pruning for model compression](https://arxiv.org/abs/1710.01878)
 
 #### Structure
