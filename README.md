@@ -10,6 +10,7 @@ Awesome Compact Models!
 #### Thinking
 - [Rethinking the Value of Network Pruning](https://arxiv.org/abs/1810.05270)  [[code]](https://github.com/Eric-mingjie/rethinking-network-pruning)
 - [To prune, or not to prune: exploring the efficacy of pruning for model compression](https://arxiv.org/abs/1710.01878)  [[code]](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/model_pruning)
+- [Low-Memory Neural Network Training: A Technical Report](https://arxiv.org/abs/1904.10631)
 
 #### Structure
 - [Pelee:A Real-Time Object Detection System on Mobile Devices](https://arxiv.org/abs/1804.06882)  [[code]](https://github.com/Robert-JunWang/Pelee)
