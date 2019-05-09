@@ -13,6 +13,8 @@ Awesome Compact Models!
 - [Low-Memory Neural Network Training: A Technical Report](https://arxiv.org/abs/1904.10631)
 
 #### Structure
+- [Searching for MobileNetV3](https://arxiv.org/pdf/1905.02244.pdf)  [[code]](https://github.com/leaderj1001/MobileNetV3-Pytorch)  [[code]](https://github.com/Randl/MobileNetV3-pytorch)
+- [Progressive Differentiable Architecture Search: Bridging the Depth Gap between Search and Evaluation](https://arxiv.org/abs/1904.12760)  [[code]](https://github.com/chenxin061/pdarts)
 - [Pelee:A Real-Time Object Detection System on Mobile Devices](https://arxiv.org/abs/1804.06882)  [[code]](https://github.com/Robert-JunWang/Pelee)
 - [PVANet: Lightweight Deep Neural Networks for Real-time Object Detection](https://arxiv.org/abs/1611.08588)  [[code]](https://github.com/sanghoon/pva-faster-rcnn)
 - [Receptive Field Block Net for Accurate and Fast Object Detection](https://arxiv.org/abs/1711.07767)  [[code]](https://github.com/ruinmessi/RFBNet)
