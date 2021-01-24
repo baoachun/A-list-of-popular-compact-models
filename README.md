@@ -13,6 +13,7 @@ Awesome Compact Models!
 - [Low-Memory Neural Network Training: A Technical Report](https://arxiv.org/abs/1904.10631)
 
 #### Structure
+- [Rethinking Bottleneck Structure for EfficientMobile Network Design](https://arxiv.org/pdf/2007.02269)  [[code]](https://github.com/zhoudaquan/rethinking_bottleneck_design)
 - [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)  [[code]](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)
 - [Searching for MobileNetV3](https://arxiv.org/pdf/1905.02244.pdf)  [[code]](https://github.com/leaderj1001/MobileNetV3-Pytorch)  [[code]](https://github.com/Randl/MobileNetV3-pytorch)
 - [Progressive Differentiable Architecture Search: Bridging the Depth Gap between Search and Evaluation](https://arxiv.org/abs/1904.12760)  [[code]](https://github.com/chenxin061/pdarts)
